@@ -18,7 +18,7 @@ const Footer = () => (
         alignItems="center"
       >
         <Text fontSize="sm">
-          &copy; {new Date().getFullYear()} Good Team. All rights reserved.
+          &copy; {new Date().getFullYear()} Testats. All rights reserved.
         </Text>
       </Stack>
     </Box>
